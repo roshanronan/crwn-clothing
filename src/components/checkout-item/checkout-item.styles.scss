@@ -1,0 +1,19 @@
+.checkout-item-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+    padding: 20px;
+    width: 100%;
+    height: inherit;
+
+    span{
+        padding: 10px;
+        
+        button{
+            margin: 5px;
+        }
+    }
+
+}
